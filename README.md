@@ -15,8 +15,10 @@ O Groove Galaxy é um aplicativo que permite baixar vídeos, músicas e playlist
 ## Como baixar
 Para baixar o Groove Galaxy, você pode seguir os seguintes passos:
 
-1. Baixe dotnet no seu computador https://dotnet.microsoft.com/en-us/download
+1. Baixe git https://git-scm.com/
+ 
+2. Baixe dotnet no seu computador https://dotnet.microsoft.com/en-us/download
 
-2. Clone este repositorio com git clone https://github.com/Alexandre0lemos/GrooveGalaxy/tree/main
+3. Clone este repositorio com git clone https://github.com/Alexandre0lemos/GrooveGalaxy/tree/main
 
-3. Execute o aplicativo dentro de GrooveGalaxy\bin\Debug\net8.0-windows\GrooveGalaxy.exe"
+4. Execute o aplicativo dentro de GrooveGalaxy\bin\Debug\net8.0-windows\GrooveGalaxy.exe"
