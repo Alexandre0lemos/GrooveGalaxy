@@ -19,6 +19,6 @@ Para baixar o Groove Galaxy, você pode seguir os seguintes passos:
  
 2. Baixe dotnet no seu computador https://dotnet.microsoft.com/en-us/download
 
-3. Clone este repositorio com git clone https://github.com/Alexandre0lemos/GrooveGalaxy/tree/main
+3. Clone este repositorio com git clone https://github.com/Alexandre0lemos/GrooveGalaxy
 
 4. Execute o aplicativo dentro de GrooveGalaxy\bin\Debug\net8.0-windows\GrooveGalaxy.exe"
