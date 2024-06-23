@@ -24,3 +24,5 @@ C:\Users\Alexa\Documents\GrooveGalaxy\GrooveGalaxy\bin\Debug\net8.0-windows\CliW
 C:\Users\Alexa\Documents\GrooveGalaxy\GrooveGalaxy\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
 C:\Users\Alexa\Documents\GrooveGalaxy\GrooveGalaxy\bin\Debug\net8.0-windows\YoutubeExplode.dll
 C:\Users\Alexa\Documents\GrooveGalaxy\GrooveGalaxy\bin\Debug\net8.0-windows\YoutubeExplode.Converter.dll
+C:\Users\Alexa\Documents\GrooveGalaxy\GrooveGalaxy\obj\Debug\net8.0-windows\GrooveGalaxy.sourcelink.json
+C:\Users\Alexa\Documents\GrooveGalaxy\GrooveGalaxy\obj\Debug\net8.0-windows\VideoClass.YoutubeDownload.resources

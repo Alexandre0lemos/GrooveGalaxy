@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\groovegalaxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|c:\\users\\alexa\\documents\\groovegalaxy\\groovegalaxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|solutionrelative:groovegalaxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|c:\\users\\alexa\\documents\\groovegalaxy\\groovegalaxy\\src\\downloadforyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|solutionrelative:groovegalaxy\\src\\downloadforyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|c:\\users\\alexa\\documents\\groovegalaxy\\groovegalaxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|solutionrelative:groovegalaxy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|c:\\users\\alexa\\documents\\groovegalaxy\\groovegalaxy\\src\\downloadforyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|solutionrelative:groovegalaxy\\src\\downloadforyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|c:\\users\\alexa\\documents\\groovegalaxy\\groovegalaxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|solutionrelative:groovegalaxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\groovegalaxy\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{347B941A-B373-468A-9922-2ADBA43DF10A}|GrooveGalaxy\\GrooveGalaxy.csproj|solutionrelative:groovegalaxy\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Form1.resx",
+              "RelativeDocumentMoniker": "GrooveGalaxy\\Form1.resx",
+              "ToolTip": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Form1.resx",
+              "RelativeToolTip": "GrooveGalaxy\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-22T16:14:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Program.cs",
+              "RelativeDocumentMoniker": "GrooveGalaxy\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Program.cs",
+              "RelativeToolTip": "GrooveGalaxy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:06:48.166Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,40 +71,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Form1.cs",
-              "RelativeDocumentMoniker": "GrooveGalaxy\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Form1.cs",
-              "RelativeToolTip": "GrooveGalaxy\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:45:40.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "DownloadForYoutube.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\src\\DownloadForYoutube.cs",
               "RelativeDocumentMoniker": "GrooveGalaxy\\src\\DownloadForYoutube.cs",
               "ToolTip": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\src\\DownloadForYoutube.cs",
               "RelativeToolTip": "GrooveGalaxy\\src\\DownloadForYoutube.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:44:52.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:44:52.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Program.cs",
-              "RelativeDocumentMoniker": "GrooveGalaxy\\Program.cs",
-              "ToolTip": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Program.cs",
-              "RelativeToolTip": "GrooveGalaxy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Form1.cs",
+              "RelativeDocumentMoniker": "GrooveGalaxy\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alexa\\Documents\\GrooveGalaxy\\GrooveGalaxy\\Form1.cs",
+              "RelativeToolTip": "GrooveGalaxy\\Form1.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAYwKgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T20:06:48.166Z"
+              "WhenOpened": "2024-06-22T13:46:35.487Z"
             }
           ]
         }

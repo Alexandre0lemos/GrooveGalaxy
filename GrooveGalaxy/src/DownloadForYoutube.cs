@@ -9,8 +9,6 @@ using YoutubeExplode;
 using YoutubeExplode.Videos.Streams;
 using System.IO;
 
-#pragma warning disable CA1416
-
 namespace VideoClass
 {
     public class YoutubeDownload
