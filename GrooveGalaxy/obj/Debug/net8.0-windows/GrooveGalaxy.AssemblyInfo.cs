@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrooveGalaxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2b5804e0c98e6d9b19de882cc9c7fc8efbc906")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4085e26cfb883888877dd00e5d179e5e50a00bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrooveGalaxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrooveGalaxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -26,8 +26,6 @@ namespace VideoClass
 
         public async Task BaixarVideoDoYoutube()
         {
-            MessageBox.Show("Clique OK para iniciar o download...\n");
-
             var video = await youtube.Videos.GetAsync(urlLink);
 
             var tituloDoVideo = video.Title;
@@ -56,8 +54,6 @@ namespace VideoClass
 
         public async Task BaixarAudioDoYoutube()
         {
-            MessageBox.Show("Clique OK para iniciar o download...\n");
-
             var video = await youtube.Videos.GetAsync(urlLink);
 
             var tituloDoVideo = video.Title;
@@ -96,8 +92,6 @@ namespace VideoClass
 
             if (!Directory.Exists(downloadPath))
             { Directory.CreateDirectory(downloadPath); }
-
-            MessageBox.Show($"Todas as musicas serão baixadas em {downloadPath}. Clique em OK para iniciar os downloads\n");
 
             await foreach (var i in youtube.Playlists.GetVideosAsync(urlLink))
             {
